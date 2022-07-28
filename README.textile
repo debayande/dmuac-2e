@@ -1,0 +1,4 @@
+h1. dmuac-2e
+
+Solutions to exercises posed in the second edition of "_Discrete Mathematics using a 
+Computer_":http://www.dcs.gla.ac.uk/~jtod/discrete-mathematics/ by O'Donnell, Hall and Page.
