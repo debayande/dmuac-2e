@@ -1,0 +1,23 @@
+1. Introduction to Haskell
+——————————————————————————
+
+Exercise 1.
+
+True && False ⟹ False
+True || False ⟹ True
+not False ⟹ True
+3 <= 5 && 5 <= 10 ⟹ True
+3 <= 20 && 20 <= 10 ⟹ False
+False == True ⟹ False
+1 == 1 ⟹ True
+1 /= 2 ⟹ True
+1 /= 1 ⟹ False
+
+Exercise 17.
+
+[1,False] needs to be changed to [True,False].
+'2' ++ 'a' needs to be changed to "2" ++ "a".
+[(3,True),(False,9)] needs to be changed to [(True,3),(False,9)].
+2 == False needs to be changed to True == False.
+'a' > "b" needs to be changed to 'a' > 'b'.
+[[1],[2],[[3]]] needs to be changed to [[1],[2],[3]].
